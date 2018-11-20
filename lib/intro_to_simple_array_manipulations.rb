@@ -5,7 +5,6 @@ end
 
 def using_unshift(array, string)
   array = []
-  string = @new_neighborhood
   array.unshift(string)
 end
 
