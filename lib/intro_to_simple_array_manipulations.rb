@@ -26,6 +26,6 @@ end
 
 def using_concat(array, array2)
   array = []
-  new_array = array.concat(array2)
+  new_array = array.concat(array)
   new_array
 end
